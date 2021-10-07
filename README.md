@@ -1,6 +1,7 @@
 # Survey_Form_Freecodecamp
 This Challenge form Freecodecamp.org
 
+![This is an image](https://github.com/IndahSkr/Survey_Form_Freecodecamp/blob/884e9c1c06822fa237320b379336a86bb8133a92/Survey_Form.png)
 
 Copyright (c) 2021 by Arif Hayati Indah Lestari (https://codepen.io/arif-hayati-indah-lestari/pen/JjJggWy)
 
